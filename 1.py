@@ -29,3 +29,5 @@ entry1=Text(root,height=1,width=10)
 entry1.place(x=50,y=50)
 
 root.mainloop()
+
+# image encryption using XOR encryption
